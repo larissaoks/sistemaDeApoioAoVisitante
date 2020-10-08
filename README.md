@@ -1,4 +1,5 @@
-# sistema-de-gerenciamento
+# Sistema de Apoio ao Visitante em Grandes Eventos
+Projeto da faculdade para a matéria de Projeto de Bloco: Desenvolvimento Front-End
 
 ## Project setup
 ```
